@@ -1,0 +1,19 @@
+Final Report
+
+Introduction
+This project aims to predict future stock prices using linear regression. 
+
+Methodology
+•	Data Collection: Historical stock prices and trading volume data were collected from kaggle.
+•	Data Preprocessing: Handled missing values, normalized features, and created lag features.
+•	Model Training: Trained a linear regression model with the processed data.
+•	Evaluation: Evaluated model performance using MSE and R square.
+
+Results
+The linear regression model achieved an MSE (Mean Squared Error) of X and an MAE (Mean Absolute Error) of Y on the test dataset. 
+Conclusion
+The linear regression model provides a basic approach to stock price prediction. Future work includes integrating additional features and exploring more advanced models.
+
+Future Work
+•	Experiment with different machine learning models (e.g., LSTM, Random Forest).
+•	Incorporate external factors such as economic indicators and news sentiment.
