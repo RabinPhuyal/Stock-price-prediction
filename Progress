@@ -1,0 +1,14 @@
+Progress Report – 7/10/2024
+Achievements
+•	Implemented data collection steps: In this step, we first collected the required data in a csv format.
+•	Implemented data preprocessing steps: Here, data inspection and cleaning was done. We check for the missing values and handle them appropriately. Also, identify and handle outliers.
+•	Performed exploratory data analysis: In this step, we examine the datasets to summarize their main characteristics using visual methods and different function and libraries.
+•	Trained initial linear regression model: Here, we trained the model using linear regression from scikit learn and evaluate the model based on mean squared error and r squared.
+Challenges
+•	Using an iplot (interactive plot ) function to make the graph more interactive which will provide information when cursor hover over the graph.
+•	Implementing multiple linear regression from scratch.
+Next Steps
+•	Fine-tune the linear regression model: Make use of Scikit-Learn’s GridSearchCV to search for the best combination of hyperparameter values.
+•	Evaluate model performance using additional metrics: Make use of precision and recall.
+•	Deploy the model:  Model can be deployed as a web application using Flask.
+
